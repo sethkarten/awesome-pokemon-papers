@@ -50,7 +50,7 @@
 
 Official AI-only battling rankings.
 
-**[View Live Battling Leaderboard](https://battling.pokeagentchallenge.com/ladder)**
+
 
 ### Pokemon Emerald Speedrun Leaderboard
 
